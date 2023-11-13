@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Pf/static/css/main.48db015d.css",
+    "main.js": "/Pf/static/js/main.4551d9c0.js",
+    "static/js/787.cf312f22.chunk.js": "/Pf/static/js/787.cf312f22.chunk.js",
+    "static/media/hackathon certificate(software edition).jpg": "/Pf/static/media/hackathon certificate(software edition).79c42115f52b2f3532a8.jpg",
+    "static/media/mit-presentation.png": "/Pf/static/media/mit-presentation.0e358adb9c8a038d6d1e.png",
+    "static/media/Introduction To Industry 4.0 And Industrial Internet Of Things.jpg": "/Pf/static/media/Introduction To Industry 4.0 And Industrial Internet Of Things.80153e816419a9136139.jpg",
+    "static/media/ideathon_poc.png": "/Pf/static/media/ideathon_poc.6ef7fc98cdaa50a784ac.png",
+    "index.html": "/Pf/index.html",
+    "main.48db015d.css.map": "/Pf/static/css/main.48db015d.css.map",
+    "main.4551d9c0.js.map": "/Pf/static/js/main.4551d9c0.js.map",
+    "787.cf312f22.chunk.js.map": "/Pf/static/js/787.cf312f22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48db015d.css",
+    "static/js/main.4551d9c0.js"
+  ]
+}
